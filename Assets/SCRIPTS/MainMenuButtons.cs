@@ -8,11 +8,6 @@ public class MainMenuButtons : MonoBehaviour
         SceneManager.LoadScene(0);
         SceneManager.LoadSceneAsync("Tutorial_level");
     }
-    //OpeningOptions() goes straight into the Options Menu scene
-    public void OpeningOptions()
-    {
-        SceneManager.LoadSceneAsync("Options Menu");
-    }
     //BackButton() goes back to the Main Menu scene
     public void BackButton()
     {
