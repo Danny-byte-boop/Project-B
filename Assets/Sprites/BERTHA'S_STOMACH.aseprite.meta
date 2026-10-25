@@ -129,7 +129,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: BERTHA'S_STOMACH
     originalName: 
-    pivot: {x: 0.5, y: -0.02}
+    pivot: {x: 0.016129032, y: -0.02}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -148,6 +148,153 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Frame_1
+    originalName: 
+    pivot: {x: 0.9838709, y: -1.54}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 62
+      height: 50
+    spriteID: 24276be6433c47d44bd70ada8b23b796
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+  - name: Frame_2
+    originalName: 
+    pivot: {x: -0.26, y: -1.016129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 50
+      height: 62
+    spriteID: 23ab195ae5b353049932bb7527cc2f94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: Frame_3
+    originalName: 
+    pivot: {x: 0.016129032, y: -0.02}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 62
+      height: 50
+    spriteID: 0cb22b47dbf0cb34cabebeb2c947dd0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+  - name: Frame_4
+    originalName: 
+    pivot: {x: 0.9838709, y: -1.54}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 62
+      width: 62
+      height: 50
+    spriteID: 1eda87ce85b60c944917e27665c64760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 62}
+  - name: Frame_5
+    originalName: 
+    pivot: {x: 1.26, y: -0.048387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 62
+      width: 50
+      height: 62
+    spriteID: d2670c3f2c383f74a838bdbde3ce01df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 62}
+  - name: Frame_6
+    originalName: 
+    pivot: {x: 0.9838709, y: -1.54}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 62
+      width: 62
+      height: 50
+    spriteID: 10314c7c66625774c810ef0e08cf5dd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 62}
+  - name: Frame_7
+    originalName: 
+    pivot: {x: 1.26, y: -0.048387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 50
+      height: 62
+    spriteID: 57e8a528892b38e46abf6833b5f1be1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
@@ -163,15 +310,78 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: BERTHA'S_STOMACH
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 1
+        x: 63
         y: 1
         width: 62
         height: 50
       spriteId: c2b92d6cd603bbe46bbb001562d9861e
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 77
+        width: 62
+        height: 50
+      spriteId: 24276be6433c47d44bd70ada8b23b796
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 77
+        y: 63
+        width: 50
+        height: 62
+      spriteId: 23ab195ae5b353049932bb7527cc2f94
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 63
+        y: 1
+        width: 62
+        height: 50
+      spriteId: 0cb22b47dbf0cb34cabebeb2c947dd0b
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 77
+        width: 62
+        height: 50
+      spriteId: 1eda87ce85b60c944917e27665c64760
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 3
+        width: 50
+        height: 62
+      spriteId: d2670c3f2c383f74a838bdbde3ce01df
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 77
+        width: 62
+        height: 50
+      spriteId: 10314c7c66625774c810ef0e08cf5dd9
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 3
+        width: 50
+        height: 62
+      spriteId: 57e8a528892b38e46abf6833b5f1be1d
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +391,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
-  previousTextureSize: {x: 128, y: 64}
+  canvasSize: {x: 128, y: 128}
+  previousTextureSize: {x: 256, y: 256}
